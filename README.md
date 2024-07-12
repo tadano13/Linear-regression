@@ -3,11 +3,11 @@ Overview <br>
 Linear Regression is a repository designed for learning the basics of machine learning, specifically focusing on linear regression. This project provides a hands-on approach to understand how linear regression works using a sample dataset. <br>
 
 ## Contents
-`Advertising.xls`: Dataset used for training the model.
-`app.py`: Script for running the linear regression model.
-`mymodel.ipynb`: Jupyter notebook containing the model training process.
-`mymodel.pkl`: Serialized model file.
-`requirements.txt`: List of dependencies required to run the project.
+`Advertising.xls`: Dataset used for training the model.<br>
+`app.py`: Script for running the linear regression model.<br>
+`mymodel.ipynb`: Jupyter notebook containing the model training process.<br>
+`mymodel.pkl`: Serialized model file.<br>
+`requirements.txt`: List of dependencies required to run the project.<br>
 
 ## Installation
 1.Clone the repository:

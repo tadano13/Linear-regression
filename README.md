@@ -3,6 +3,8 @@ Overview <br>
 Linear Regression is a repository designed for learning the basics of machine learning, specifically focusing on linear regression. This project provides a hands-on approach to understand how linear regression works using a sample dataset. <br>
 
 ## Contents
+
+
 `Advertising.xls`: Dataset used for training the model.<br>
 `app.py`: Script for running the linear regression model.<br>
 `mymodel.ipynb`: Jupyter notebook containing the model training process.<br>
@@ -10,10 +12,14 @@ Linear Regression is a repository designed for learning the basics of machine le
 `requirements.txt`: List of dependencies required to run the project.<br>
 
 ## Installation
+
+
 1.Clone the repository:
 Copy code:
-`git clone https://github.com/tadano13/LinearrReg5.git
-cd LinearrReg5`<br>
+```bash
+git clone https://github.com/tadano13/LinearrReg5.git
+cd LinearrReg5`
+```
 Install dependencies:
 bash
 Copy code

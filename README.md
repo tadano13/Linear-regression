@@ -10,11 +10,10 @@ Linear Regression is a repository designed for learning the basics of machine le
 `requirements.txt`: List of dependencies required to run the project.
 
 ## Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/tadano13/LinearrReg5.git
-cd LinearrReg5
+1.Clone the repository:
+Copy code:
+`git clone https://github.com/tadano13/LinearrReg5.git
+cd LinearrReg5`<br>
 Install dependencies:
 bash
 Copy code

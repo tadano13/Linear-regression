@@ -1,6 +1,6 @@
 # Linear Regression on Advertising data
-Overview
-LinearrReg5 is a repository designed for learning the basics of machine learning, specifically focusing on linear regression. This project provides a hands-on approach to understand how linear regression works using a sample dataset.
+Overview <br>
+Linear Regression is a repository designed for learning the basics of machine learning, specifically focusing on linear regression. This project provides a hands-on approach to understand how linear regression works using a sample dataset. <br>
 
 Contents
 Advertising.xls: Dataset used for training the model.

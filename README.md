@@ -29,7 +29,7 @@ Run the Jupyter notebook to train the model:<br>
 ```bash
 jupyter notebook mymodel.ipynb
 ```
-Use app.py to load and test the model:
+Use `app.py` to load and test the model:
 ```bash
 python app.py
 Project Structure
@@ -42,15 +42,20 @@ LinearrReg5/
 └── requirements.txt
 ```
 # Streamlit App<br>
-You can also interact with the model using the Streamlit app. Streamlit App Link<br>
+
+You can also interact with the model using the Streamlit app.<br>
+`link`:https://linearrreg5-mbmegaa9v5bch73v9sixvt.streamlit.app/
 
 # Contributing<br>
+
 Contributions are welcome. Please fork the repository and create a pull request.<br>
 
 # License<br>
+
 This project is licensed under the MIT License.<br>
 
 # Conclusion<br>
+
 This project serves as a practical introduction to linear regression, providing the tools and resources necessary to understand and implement this fundamental machine learning algorithm. Happy learning!<br>
 
 Authored by Nishant Doma Sawaimoon
